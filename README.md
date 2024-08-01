@@ -3,32 +3,32 @@
 ## Sobre mí
 Soy un apasionado desarrollador con experiencia en Python, Java y Flask. Me encanta crear soluciones elegantes y funcionales. Actualmente, estoy explorando el mundo del desarrollo Full Stack.
 
-## Proyectos Destacados
-
-### E-commerce
-Desarrollé un sitio web de comercio electrónico especializado en la venta de guitarras, también desarrollé una API utilizando Flask. Esta API permite a los usuarios acceder a información sobre las guitarras. Algunas características clave incluyen:
-
-- Página de administrador con inicio de sesión para gestionar productos (CRUD).
-- Base de datos MySQL para almacenar la información.
-
-A implementar: 
-- Catálogo de guitarras para que los clientes exploren y compren.
-  
-### Aplicaciones Java
-He trabajado en varias aplicaciones Java:
-
-
-- **Calculadora**: Creé una calculadora de escritorio.
-- **CRUD de Productos**: Implementé un sistema CRUD para gestionar productos.
-- **Ta-Te-Ti**: Desarrollé el clásico juego de Ta-Te-Ti.
-
 ## Habilidades Técnicas
-- 💻 Lenguajes de Programación: C, Java, Python
-- 🗄️ Base de Datos: MySQL
-- 🌐 Frameworks y Herramientas: Flask, Django, Bootstrap
-- 📝 Control de versiones: Git, GitHub
-- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript
-- ⚙️ Metodologías Ágiles: Scrum
+- **Lenguajes de Programación (Backend):**
+  - C !C Logo
+  - Java !Java Logo
+  - Python !Python Logo
+
+- **Base de Datos 🗄️:**
+  - MySQL !MySQL Logo
+
+- **Frameworks y Herramientas (Backend) 🌐:**
+  - Flask !Flask Logo
+  - Django !Django Logo
+  - Bootstrap !Bootstrap Logo
+
+- **Control de Versiones 📝:**
+  - Git !Git Logo
+  - GitHub !GitHub Logo
+
+- **Desarrollo Frontend 🎨:**
+  - HTML !HTML Logo
+  - CSS !CSS Logo
+  - JavaScript !JavaScript Logo
+
+- **Metodologías Ágiles ⚙️:**
+  - Scrum !Scrum Logo
+Python Javascript Typescript Bootstrap React HTML Css Tailwindcss NodeJs Express Mysql Figma Postman Linux Git
 
 ## Certificaciones y Cursos
 - Curso completo de Desarrollo en Java - Udemy, 2023
