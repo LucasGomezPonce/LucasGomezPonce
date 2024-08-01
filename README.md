@@ -20,13 +20,13 @@ He trabajado en varias aplicaciones Java:
 - **CRUD de Productos**: Implementé un sistema CRUD para gestionar productos.
 - **Ta-Te-Ti**: Desarrollé el clásico juego de Ta-Te-Ti.
 
-## Habilidades Técnicas
-- 💻 Lenguajes de Programación: C, Java, Python
-- 🗄️ Base de Datos: MySQL
-- 🌐 Frameworks y Herramientas: Flask, Django, Bootstrap
-- 📝 Control de versiones: Git, GitHub
-- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript
-- ⚙️ Metodologías Ágiles: Scrum
+## Skills
+- 💻 **Lenguajes de Programación**: C, Java, Python
+- 🗄️ **Base de Datos**: MySQL
+- 🌐 **Frameworks y Herramientas**: Flask, Django, Bootstrap
+- 📝 **Control de versiones**: Git, GitHub
+- 🎨 **Desarrollo Frontend**: HTML, CSS, JavaScript
+- ⚙️ **Metodologías Ágiles**: Scrum
 
 ## Contacto
 ¡Conéctate conmigo en LinkedIn! [Enlace a mi perfil](https://www.linkedin.com/in/lucas-gomez-ponce/)
