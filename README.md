@@ -33,7 +33,7 @@ He trabajado en varias aplicaciones Java:
 - Curso de Desarrollo Full Stack Python (200 horas) - Codo a Codo, 2024
 
 ## Contacto
-¡Conéctate conmigo en LinkedIn! Enlace a mi perfil
+¡Conéctate conmigo en LinkedIn! [Enlace a mi perfil](https://www.linkedin.com/in/lucas-gomez-ponce/)
 
 ⚡ Dato curioso: Soy un fanático de los juegos de mesa y tengo una colección de más de 50 juegos.
 
