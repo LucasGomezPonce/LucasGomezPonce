@@ -28,10 +28,6 @@ He trabajado en varias aplicaciones Java:
 - 🎨 Desarrollo Frontend: HTML, CSS, JavaScript
 - ⚙️ Metodologías Ágiles: Scrum
 
-## Certificaciones y Cursos
-- Curso completo de Desarrollo en Java - Udemy, 2023
-- Curso de Desarrollo Full Stack Python (200 horas) - Codo a Codo, 2024
-
 ## Contacto
 ¡Conéctate conmigo en LinkedIn! [Enlace a mi perfil](https://www.linkedin.com/in/lucas-gomez-ponce/)
 
