@@ -5,8 +5,8 @@ Soy un apasionado desarrollador web con experiencia en Python, Java y Flask. Me 
 
 ## Proyectos Destacados
 
-### E-commerce (Flask)
-Desarrollé un sitio web de comercio electrónico especializado en la venta de guitarras. Algunas características clave incluyen:
+### E-commerce
+Desarrollé un sitio web de comercio electrónico especializado en la venta de guitarras. El proyecto combina una interfaz de usuario amigable con una sólida funcionalidad backend. A continuación, se detallan las características clave:
 
 - Página de administrador con inicio de sesión para gestionar productos (CRUD).
 - Catálogo de guitarras para que los clientes exploren y compren.
