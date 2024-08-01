@@ -1,7 +1,7 @@
 # ¡Hola! Soy Lucas Gómez Ponce 👋
 
 ## Sobre mí
-Soy un apasionado desarrollador web con experiencia en Python, Java y Flask. Me encanta crear soluciones elegantes y funcionales. Actualmente, estoy explorando el mundo del desarrollo Full Stack.
+Soy un apasionado desarrollador con experiencia en Python, Java y Flask. Me encanta crear soluciones elegantes y funcionales. Actualmente, estoy explorando el mundo del desarrollo Full Stack.
 
 ## Proyectos Destacados
 
