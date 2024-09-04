@@ -1,7 +1,7 @@
 # ¡Hola! Soy Lucas 👋
 
 ## Sobre mí
-🚀 Soy un apasionado desarrollador con experiencia en Python, Java y Flask. Me encanta crear soluciones elegantes y funcionales. Actualmente, estoy explorando el mundo del desarrollo Full Stack como programador junior. 💻✨
+🚀 Soy un apasionado desarrollador con experiencia en Python y Java. Me encanta crear soluciones elegantes y funcionales. Actualmente, estoy explorando el mundo del desarrollo Full Stack como programador junior. 💻✨
 
 ## Proyectos Destacados
 
@@ -23,7 +23,7 @@ He trabajado en varias aplicaciones Java:
 ## Skills
 - 💻 **Lenguajes de Programación**: C, Java, Python
 - 🗄️ **Base de Datos**: MySQL
-- 🌐 **Frameworks y Herramientas**: Flask, Django, Bootstrap
+- 🌐 **Frameworks y Herramientas**: Flask
 - 📝 **Control de versiones**: Git, GitHub
 - 🎨 **Desarrollo Frontend**: HTML, CSS, JavaScript
 - ⚙️ **Metodologías Ágiles**: Scrum
