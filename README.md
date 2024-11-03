@@ -31,7 +31,6 @@ He trabajado en varias aplicaciones Java:
 ## Contacto
 ¡Conéctate conmigo en LinkedIn! [Enlace a mi perfil](https://www.linkedin.com/in/lucas-gomez-ponce/)
 
-⚡ Dato curioso: Me encanta salir a correr y hacer ejercicio al aire libre. 🏃‍♂️
 
 <!---
 LucasGomezPonce/LucasGomezPonce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
