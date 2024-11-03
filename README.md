@@ -5,7 +5,7 @@
 
 ## Proyectos Destacados
 
-### E-commerce con Python y Flask
+### E-commerce con Python y Django
 Desarrollé un sitio web de comercio electrónico especializado en la venta de guitarras. El proyecto combina una interfaz de usuario amigable con una sólida funcionalidad backend. A continuación, se detallan las características clave:
 
 - Página de administrador con inicio de sesión para gestionar productos (CRUD).
