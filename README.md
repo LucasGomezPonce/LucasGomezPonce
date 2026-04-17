@@ -1,38 +1,65 @@
 # ¡Hola! Soy Lucas 👋
 
 ## Sobre mí
-🚀  Soy estudiante de Desarrollo de Software, con conocimientos en Python y Java. Me apasiona crear soluciones elegantes y funcionales. Actualmente, me estoy formando como desarrollador Full Stack junior, ampliando mis habilidades tanto en frontend como backend 💻✨
+🚀 Soy estudiante de la Tecnicatura en Desarrollo de Software, con orientación a desarrollo Full Stack.  
+
+💻 Tengo experiencia en Python, Java y desarrollo web, creando aplicaciones tanto del lado del backend como del frontend. Me interesa construir soluciones completas, desde la lógica del servidor hasta la interfaz de usuario, aplicando buenas prácticas como control de versiones, metodologías ágiles y testing.
+
+---
 
 ## Proyectos Destacados
 
-### E-commerce con Python y Django
-Desarrollé un sitio web de comercio electrónico especializado en la venta de guitarras. El proyecto combina una interfaz de usuario amigable con una sólida funcionalidad backend. A continuación, se detallan las características clave:
+### 🏠 Sistema SmartHome (Python, MySQL, DAO)
+Aplicación en consola para la gestión de dispositivos inteligentes.
 
-- Página de administrador con inicio de sesión para gestionar productos (CRUD).
-- Catálogo de guitarras para que los clientes exploren y compren.
-- Base de datos MySQL para almacenar la información.
+- Implementación de arquitectura DAO  
+- Sistema CRUD para gestión de dispositivos  
+- Integración con base de datos  
+- Trabajo con Scrum y Trello  
+- Testing de funcionalidades con Pytest  
 
-### Aplicaciones Java
-He trabajado en varias aplicaciones Java:
+---
 
+### 🛒 E-commerce Web (Flask, MySQL, HTML, CSS, JavaScript)
+Aplicación web completa para venta de productos.
 
-- **Calculadora**: Creé una calculadora de escritorio.
-- **CRUD de Productos**: Implementé un sistema CRUD para gestionar productos.
-- **Ta-Te-Ti**: Desarrollé el clásico juego de Ta-Te-Ti.
+- Desarrollo de backend con Flask  
+- Sistema CRUD para gestión de productos  
+- Autenticación de administrador  
+- Integración con base de datos MySQL  
+- Desarrollo de interfaz web (frontend)  
 
-## Skills
-- 💻 **Lenguajes de Programación**: C, Java, Python
-- 🗄️ **Base de Datos**: MySQL, PostgreSQL
-- 🌐 **Frameworks y Herramientas**: Flask
-- 📝 **Control de versiones**: Git, GitHub
-- 🎨 **Desarrollo Frontend**: HTML, CSS, JavaScript
-- ⚙️ **Metodologías Ágiles**: Scrum
+---
 
-## Contacto
-¡Conéctate conmigo en LinkedIn! [Enlace a mi perfil](https://www.linkedin.com/in/lucas-gomez-ponce/)
+### 🎮 Página de Juegos Web (HTML, CSS, JavaScript)
+Desarrollo de juegos interactivos en entorno web.
 
+- Ta-Te-Ti, Piedra-Papel-Tijera y Memorama  
+- Diseño responsive  
+- Navegación y estructura web  
 
-<!---
-LucasGomezPonce/LucasGomezPonce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### ☕ Aplicaciones en Java
+- Calculadora de escritorio  
+- Sistema CRUD con Programación Orientada a Objetos  
+- Juego Ta-Te-Ti  
+
+---
+
+## 🛠️ Skills
+
+- 💻 **Lenguajes:** Python, Java, C  
+- ⚙️ **Backend:** Flask, API REST, CRUD  
+- 🎨 **Frontend:** HTML, CSS, JavaScript  
+- 🗄️ **Bases de datos:** MySQL, PostgreSQL  
+- 🔧 **Control de versiones:** Git, GitHub  
+- 🧪 **Testing:** Pytest  
+- 📋 **Metodologías:** Scrum (Agile)  
+- 🧰 **Herramientas:** Visual Studio Code, Trello  
+
+---
+
+## 📫 Contacto
+- 🔗 LinkedIn: https://www.linkedin.com/in/lucas-gomez-ponce-lkd  
+- 🌐 Portfolio: https://lucasggompondev.netlify.app  
